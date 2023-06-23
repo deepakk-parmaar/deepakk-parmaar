@@ -33,8 +33,11 @@ Let's Connect!
 You can reach out to me via:
 
 Email: dpk2k2@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/deepak-parmar-b8317b222
+
 GitHub: https://github.com/deepakk-parmaar/
+
 I'm thrilled to be on this journey, exploring the intersection of ML, AI, web development, and Android development. Together, let's push the boundaries of what's possible and make a positive impact!
 
 Keep coding and dreaming big! 🚀✨
